@@ -1,0 +1,7 @@
+C:\Users\ensar.ozer\source\repos\MarsRover\MarsRover\obj\Debug\MarsRover.csproj.AssemblyReference.cache
+C:\Users\ensar.ozer\source\repos\MarsRover\MarsRover\obj\Debug\MarsRover.csproj.CoreCompileInputs.cache
+C:\Users\ensar.ozer\source\repos\MarsRover\MarsRover\bin\Debug\MarsRover.exe.config
+C:\Users\ensar.ozer\source\repos\MarsRover\MarsRover\bin\Debug\MarsRover.exe
+C:\Users\ensar.ozer\source\repos\MarsRover\MarsRover\bin\Debug\MarsRover.pdb
+C:\Users\ensar.ozer\source\repos\MarsRover\MarsRover\obj\Debug\MarsRover.exe
+C:\Users\ensar.ozer\source\repos\MarsRover\MarsRover\obj\Debug\MarsRover.pdb
